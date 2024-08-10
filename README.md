@@ -42,7 +42,7 @@ First, the shell script needs to be executed 0feat_extract_nopre.sh (This script
 
 Second, 1create_h5data.py (This script will create h5 files from embeddings)
 
-Third, 2train_testwith1random_cos (The script will train models with cosine distance as distance measure with one random variable)
+Third, 2train_testwith1random_cos.py (The script will train models with cosine distance as distance measure with one random variable)
 
 Fourth, 2train_testwith1random_l1.py (The script will train models with l1 distance as distance measure with one random variable)
 
